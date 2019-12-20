@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Task1",
+            "request": "launch",
+            "mainClass": "tp_note_1.Task1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sample",
+            "request": "launch",
+            "mainClass": "tp_note_1.Sample"
+        }
+    ]
+}
