@@ -14,7 +14,6 @@ public class Task2 {
         minutes = seconds / 60;
         seconds = seconds - minutes * 60;
 
-
         System.out.println("Time corresponding to " + temp + " seconds is " + hours + ":" + minutes + ":" + seconds);
 	}
 }
